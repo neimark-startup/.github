@@ -1,1 +1,156 @@
-The content has been copied to your clipboard. Please paste it here to complete the file creation.
+{
+  "repo_notes": [
+    {
+      "content": ""
+    }
+  ],
+  "pages": [
+    {
+      "title": "Главная",
+      "purpose": "Introduce the .github repository, its purpose as a GitHub organization profile, and provide a high-level overview of what it documents (the НЕЙМАРК_Стартап platform)",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "НЕЙМАРК_Стартап Platform",
+      "purpose": "Main overview page for the НЕЙМАРК_Стартап web platform system, explaining its mission to support young technological entrepreneurship and providing a high-level architectural summary",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Platform Overview & Goals",
+      "purpose": "Detailed explanation of the platform's purpose, the problems it solves for early-stage startups, and its role within the НЕЙМАРК IT campus ecosystem",
+      "parent": "НЕЙМАРК_Стартап Platform",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "User Roles & Target Audience",
+      "purpose": "Comprehensive description of the four user roles (Стартаперы, Менторы, Инвесторы, Администраторы), their demographics, responsibilities, and how they interact within the ecosystem",
+      "parent": "НЕЙМАРК_Стартап Platform",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Core Functional Modules",
+      "purpose": "Overview of the five main functional areas of the platform and how they work together to support the startup lifecycle",
+      "parent": "НЕЙМАРК_Стартап Platform",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Personal Account (Личный кабинет)",
+      "purpose": "Deep dive into the Personal Account system as the central hub, covering personalized dashboards, profile management, and the notification system",
+      "parent": "НЕЙМАРК_Стартап Platform",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Teams & Projects (Команды и проекты)",
+      "purpose": "Documentation of the team formation features, including co-founder search by skills/roles, team management, and project progress tracking functionality",
+      "parent": "НЕЙМАРК_Стартап Platform",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Training & Mentorship (Обучение и менторство)",
+      "purpose": "Explanation of the mentorship system, including the mentor catalog, consultation booking system, and ratings/reviews mechanism",
+      "parent": "НЕЙМАРК_Стартап Platform",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Competitions & Grants (Конкурсы и гранты)",
+      "purpose": "Description of how the platform aggregates funding opportunities, maintains a deadlines calendar, and provides automatic notifications for relevant opportunities",
+      "parent": "НЕЙМАРК_Стартап Platform",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Analytics (Аналитика)",
+      "purpose": "Documentation of the analytics module designed for administrators, including user activity statistics, project success metrics, and interactive dashboards",
+      "parent": "НЕЙМАРК_Стартап Platform",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "System Architecture & Integration",
+      "purpose": "Technical architecture deep dive covering the hub-and-spoke design, inter-module communication patterns, and how functional modules integrate with the Personal Account hub",
+      "parent": "НЕЙМАРК_Стартап Platform",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Data Architecture & Workflows",
+      "purpose": "Explanation of the data model, including user profiles, project databases, mentor catalogs, and the event-driven notification system architecture",
+      "parent": "НЕЙМАРК_Стартап Platform",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Repository Organization",
+      "purpose": "Explanation of how this .github repository is structured, its role as a GitHub organization profile repository, and what each directory contains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Profile Directory",
+      "purpose": "Documentation of the profile/ directory structure and how profile/README.md serves as the organization's public-facing documentation",
+      "parent": "Repository Organization",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Data Assets Directory",
+      "purpose": "Overview of the data/ directory contents, including bug documentation images, issue screenshots, and other supporting visual assets",
+      "parent": "Repository Organization",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    }
+  ]
+}
